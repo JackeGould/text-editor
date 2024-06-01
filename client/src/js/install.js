@@ -8,7 +8,7 @@ window.addEventListener('beforeinstallprompt', (event) => {});
 window.addEventListener('beforeinstallprompt', (event) => {
     window.deferredPrompt = event;
     butInstall.classList.toggle('hidden', false);
-  });
+  });h
 
 // TODO: Add an handler for the `appinstalled` event
 

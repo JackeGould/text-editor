@@ -38,7 +38,7 @@
 
 The following image demonstrates the web application's appearance and functionality:
 
-![]()
+![](./assets/jate.png)
 
 ## Deployment
 

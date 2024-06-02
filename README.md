@@ -43,3 +43,5 @@ The following image demonstrates the web application's appearance and functional
 ## Deployment
 
 https://github.com/JackeGould/text-editor
+
+https://text-editor-oo30.onrender.com/
